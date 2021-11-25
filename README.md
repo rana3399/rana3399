@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rana.
 #### I am a Full Stack Web-Developer
-![I am a Full Stack Web-Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Full Stack Web-Developer](https://media-exp1.licdn.com/dms/image/C5616AQFhQOF1auICmw/profile-displaybackgroundimage-shrink_350_1400/0/1637880988400?e=1643241600&v=beta&t=qbjAQfyaiPq4xN06ilva-RHZjJiqGWAQwp_R5tC7J4Q)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
