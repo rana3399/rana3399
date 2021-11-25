@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**rana3399/rana3399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hola, I'm Rana Ahmed !
 
 - 🔭 I’m currently working on my Final project "HostelLife.com"
 - 🌱 I’m currently learning Barcelona, Spain.
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Javascript, React, Node.js, PostgresSQL **
 - 📫 How to reach me: foster3399@gmail.com
--->
+
