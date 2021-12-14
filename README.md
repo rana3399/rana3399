@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ranaahmed.code@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Portfolio:</h3> <p> https://rana3399.github.io/Rana-Ahmed-Portfolio</p>
 <p align="left">
 </p>
 
