@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana3399&show_icons=true&locale=en&layout=compact" alt="rana3399" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana3399&show_icons=true&locale=en" alt="rana3399" /></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60' color='red'>](https://github.com/https://github.com/rana3399)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60' background-color='green'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rana-ahmed-rana//)  
