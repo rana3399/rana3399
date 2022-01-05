@@ -3,8 +3,8 @@
 <h1 align="center">Hola 👋, I'm Rana Ahmed</h1>
 <h3 align="center">A Full Stack Web-Developer. 💻 </h3>
 
-<h5 align="center"> ✅ Skills: Javascript || REACT || Bootstrap || CSS || HTML5 || Node.js || Express.js || PostgresSQL </h5>
-<h5 align="center"> ✅ Additional Skills : SEO, Canva, Figma, Social Media Marketing </h5>
+<h5 align="center"> ✅ Skills: Javascript || REACT || Bootstrap || HTML5 || CSS || SCSS || RESTful APIs || Node.js || Express.js || PostgresSQL </h5>
+<h5 align="center"> ✅ Additional Skills & Tools : GIT, Postman, Figma, SEO, Agile Methedology (SCRUM) </h5>
 
 - 🔭 I’m am a current student at MigraCode Bootcamp Barcelona.
  
